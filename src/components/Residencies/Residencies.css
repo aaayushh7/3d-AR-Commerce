@@ -5,8 +5,8 @@
 }
 
 .r-wrapper {
-  background-color: rgb(9, 9, 32);
-  backdrop-filter: 20px;
+  background-color: rgb(9, 30, 35);
+  height: 500px;
 }
 
 .r-head{
@@ -19,7 +19,7 @@
   max-width: max-content;
   margin: auto;
   transition: all 300ms ease-in;
-  background-color: rgb(86, 86, 95);
+  background-color: rgb(218, 233, 245);
 }
 
 .r-card > img {

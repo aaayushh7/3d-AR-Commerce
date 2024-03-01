@@ -5,3 +5,15 @@
 .c-container>img{
     width: 9rem;
 }
+.c-wrap{
+    height: 180px;
+}
+
+.company-image {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .company-image:hover {
+    transform: scale(1.1);
+  }
+  

@@ -4,6 +4,11 @@
 .c-container > div {
   flex: 1;
 }
+
+.c-wrapper {
+    background-color: rgb(14, 3, 33);
+  
+}
 .c-right {
   width: 100%;
 }
@@ -13,6 +18,7 @@
 .contactModes {
   margin-top: 2rem;
   gap: 1rem;
+  background-color: aliceblue;
 }
 .contactModes .row {
   gap: 1.5rem;
