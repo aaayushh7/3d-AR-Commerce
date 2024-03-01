@@ -4,14 +4,14 @@
     "price": "90,000",
     "detail": "The most stable phone for stable users.",
     "image": "./iphone.png",
-    "href": "@/components/iphone/iphone"
+    "href": ""
   },
   {
     "name": "Custom Shirt",
     "price": "1119",
     "detail": "custom white shirt with your branding on it",
     "image": "./shirt.png",
-    "href": "@/components/iphone/iphone"
+    "href": "https://tee-shirt.vercel.app"
 
   },
   {
