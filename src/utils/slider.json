@@ -3,18 +3,22 @@
     "name": "Iphone 14 pro",
     "price": "90,000",
     "detail": "The most stable phone for stable users.",
-    "image": "./iphone.png"
+    "image": "./iphone.png",
+    "href": "../components/iphone.jsx"
   },
   {
     "name": "Custom Shirt",
     "price": "1119",
     "detail": "custom white shirt with your branding on it",
-    "image": "./shirt.png"
+    "image": "./shirt.png",
+    "href": "../components/iphone.jsx"
+
   },
   {
     "name": "UV glasses",
     "price": "6,999",
     "detail": "Harmin Cardin sunGlasses",
-    "image": "./glasses.png"
+    "image": "./glasses.png",
+    "href": "../components/iphone.jsx"
   }
 ]
