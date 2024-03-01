@@ -16,12 +16,14 @@ function App() {
         <Header />
         <Hero />
       </div>
+      <div >
       <Companies />
       <Residencies/>
       {/* <Value/> */}
       <Contact/>
       <GetStarted/>
       <Footer/>
+      </div>
     </div>
   );
 }
