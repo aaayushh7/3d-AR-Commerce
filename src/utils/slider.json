@@ -4,14 +4,14 @@
     "price": "90,000",
     "detail": "The most stable phone for stable users.",
     "image": "./iphone.png",
-    "href": "../components/iphone.jsx"
+    "href": "@/components/iphone/iphone"
   },
   {
     "name": "Custom Shirt",
     "price": "1119",
     "detail": "custom white shirt with your branding on it",
     "image": "./shirt.png",
-    "href": "../components/iphone.jsx"
+    "href": "@/components/iphone/iphone"
 
   },
   {
@@ -19,6 +19,6 @@
     "price": "6,999",
     "detail": "Harmin Cardin sunGlasses",
     "image": "./glasses.png",
-    "href": "../components/iphone.jsx"
+    "href": "@/components/iphone/iphone"
   }
 ]
