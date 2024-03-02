@@ -21,3 +21,6 @@
         justify-content: center;
     }
 }
+.f-wrapper {
+    background: linear-gradient(to right, black, lightblue);
+}
