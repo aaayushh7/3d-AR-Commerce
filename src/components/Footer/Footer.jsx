@@ -6,11 +6,11 @@ const Footer = () => {
       <div className="paddings innerWidth flexCenter f-container">
         {/* left side */}
         <div className="flexColStart f-left">
-          <img src="./logo.png" alt="" width={120} />
-          <span className="secondaryText">
+          <img src="./logo.png" alt="" width={170} />
+          {/* <span className="footerText">
             Our vision is to make all people <br />
             shop effortlessly.
-          </span>
+          </span> */}
         </div>
 
         <div className="flexColStart f-right">

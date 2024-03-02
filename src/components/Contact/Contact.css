@@ -6,8 +6,8 @@
 }
 
 .c-wrapper {
-    background-color: rgb(14, 3, 33);
-  
+      background-color: rgba(54, 79, 81, 0.7); /* Adjust the opacity as needed */
+      backdrop-filter: blur(10px); /* Adding the glass effect */ 
 }
 .c-right {
   width: 100%;
@@ -18,7 +18,7 @@
 .contactModes {
   margin-top: 2rem;
   gap: 1rem;
-  background-color: aliceblue;
+  background-color: rgb(79, 109, 118);
 }
 .contactModes .row {
   gap: 1.5rem;
